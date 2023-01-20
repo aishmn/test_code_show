@@ -1,0 +1,1 @@
+default_app_config = 'jobzill.applications.employer.apps.EmployerConfig'
